@@ -1,2 +1,7 @@
-# demo-inti-construcciones
-Demo web para INTI Construcciones — diseñada por eterlab.
+# INTI Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
